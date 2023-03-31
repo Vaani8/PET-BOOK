@@ -1,0 +1,45 @@
+.header{
+    display:flex;
+    justify-content:space-between
+}
+
+.menu{
+    display:flex;
+    justify-content:space-between;
+    padding:15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:#ffffff
+}
+
+.bodyimg1{
+    display:flex;
+    justify-content:space-between
+}
+
+.bodyimg2{
+    display:flex;
+    justify-content:space-between
+}
+
+.center{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+h4{
+    text-align:center;
+}
+
+h5{
+    text-align:center;
+}
+
+body{
+    margin: 0px;
+    font-size:large;
+    background-image:url("bg .jpeg");
+    background-size:1500px 1500px;
+}
